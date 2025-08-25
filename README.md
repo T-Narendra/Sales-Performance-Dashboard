@@ -36,3 +36,13 @@ Power BI – Interactive dashboard creation
 Excel – Data preprocessing & cleaning
 
 Power Query – ETL and data transformation
+
+## 📈 Insights & Outcomes
+
+Identified top 5 revenue-generating products and areas needing improvement.
+
+Highlighted salesperson performance gaps to optimize workforce productivity.
+
+Detected regional sales variations to guide market expansion.
+
+Improved decision-making speed and accuracy through automated reporting.
